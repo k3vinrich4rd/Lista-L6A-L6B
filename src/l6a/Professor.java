@@ -1,4 +1,4 @@
-package L6a;
+package l6a;
 
 import java.util.ArrayList;
 

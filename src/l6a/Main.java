@@ -1,4 +1,4 @@
-package L6a;
+package l6a;
 
 public class Main {
     public static void main(String[] args) {

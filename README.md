@@ -21,5 +21,5 @@ Limite a quantidade de professores supervisionados na classe coordenador.
 
 LISTA DE EXERCÍCIOS 006B - Entregar
 
-1 - Faça um programa que calcule a área de uma figura geométrica. Aceite quatro tipos de figura geométrica: quadrado, retângulo, triângulo e círculo. Use herança, classe abstrata e polimorfismo.
+1 - Faça um programa que calcule a área de uma figura geométrica. Aceite quatro tipos de figura geométrica: quadrado, retângulo, triângulo e círculo. Use herança, classe l6babstrata e polimorfismo.
 2 - Modifique o exercício anterior para utilizar a interface FiguraGeometrica.
